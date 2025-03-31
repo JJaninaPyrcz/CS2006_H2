@@ -9,3 +9,23 @@ Additional requirements
   - Network play
 
 Julia: Graphic & UI
+- Visual representation for game
+- User input & mose input
+- Mapping mouse to screen
+- Visual feedback etc
+Additional requirements
+  - Birmap omages for game 
+  - options menu
+  - Undo 
+  - Display hints
+  - Pause 
+
+Donald: AI 
+- Implemment AI 
+- Game tree for predicitons 
+Additional requirements
+  - Time Limits for moves 
+  - Pente Renju...?
+  - Multi AI Skills (Hard) - maybe 
+  - Network Play ( Hard) - Probably not 
+
