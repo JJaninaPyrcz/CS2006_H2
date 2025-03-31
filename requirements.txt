@@ -6,5 +6,6 @@ Additional requirements
   - Command Line optiona 
   - save game 
   - SGF File Format (Hard)
+  - Network play
 
 Julia: Graphic & UI
