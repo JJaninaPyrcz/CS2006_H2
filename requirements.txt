@@ -1,0 +1,10 @@
+Nana: Game Logic and Board representation
+- core game mechanics
+- design data structure 
+- win condition checking etc
+Additional requirements
+  - Command Line optiona 
+  - save game 
+  - SGF File Format (Hard)
+
+Julia: Graphic & UI
