@@ -19,6 +19,7 @@ Additional requirements
   - Undo 
   - Display hints
   - Pause 
+  - Scale the game with window size (or fix window size if we run out of time)
 
 Donald: AI 
 - Implemment AI 
